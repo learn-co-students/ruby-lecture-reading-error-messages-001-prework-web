@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world
+first_program = "hello_world"
