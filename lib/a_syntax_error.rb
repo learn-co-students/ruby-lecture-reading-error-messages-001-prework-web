@@ -1,3 +1,5 @@
-x = 1
+def code
+  x = 1
+  puts x
+end
 
-x = 
