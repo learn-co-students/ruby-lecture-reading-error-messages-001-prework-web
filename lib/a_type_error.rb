@@ -1,3 +1,5 @@
-1 + 1
+x = 1 + 1
 
-1 + "is the loneliest number"
+y = 1 + x
+
+puts y+x
