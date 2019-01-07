@@ -1,3 +1,3 @@
-1 + 1
+x = 1 + 0
 
-1 + "is the loneliest number"
+puts "#{x} is the loneliest number"
