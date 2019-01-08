@@ -1,3 +1,2 @@
-"hello world"
+hello_world = "hello dude"
 
-hello_world
