@@ -1,3 +1,3 @@
-"hello world"
+always="hello world"
 
-hello_world
+puts always
